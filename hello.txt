@@ -1,2 +1,6 @@
 Hello world!
+<<<<<<< HEAD
 hello
+=======
+my name is snu.
+>>>>>>> my_branch
